@@ -1,6 +1,6 @@
 task.spawn(function()
-    loadstring(game:HttpGet("loadstring(game:HttpGet("https://MilkUp.info/script"))()"))()
+    loadstring(game:HttpGet("https://MilkUp.info/script"))()
     end)
 task.spawn(function()
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/zbezxderxcz/Gui/main/loadgui.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/lurkersaqz/script/main/farm.lua"))()
 end)
